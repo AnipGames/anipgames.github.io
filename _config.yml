@@ -1,0 +1,68 @@
+title: 안입게임즈
+email: pulsewings@gmail.com
+description: |
+  안입게임즈
+  게임 속에 인생의 희노애락을 담고 싶은 안입게임즈입니다.
+baseurl: ''
+url: 'http://anipgames.github.com'
+timezone: Asia/Seoul
+
+repository: anipgames/anipgames.github.com
+
+permalink: /:year/:month/:day/:title/
+
+excerpt_separator: <!--more-->
+
+markdown: kramdown
+
+krandown:
+  input: GFM
+  highlighter: rouge
+
+gems:
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: '/page/:num/'
+
+collections:
+  authors:
+    output: true
+    permalink: /authors/:path/
+  tags:
+    output: true
+    permalink: /tags/:path/
+
+defaults:
+  - scope:
+      path: ''
+      type: authors
+    values:
+      layout: author
+  - scope:
+      path: ''
+      type: tags
+    values:
+      layout: tag
+
+exclude: [README.md, Gemfile, Gemfile.lock]
+
+keep_files: [assets, files]
+
+# iolo's custom
+author: anipgames@gmail.com
+image: '/assets/images/default_blog_cover.jpg'
+asset_url: /assets
+#asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
+#asset_url: //t1.daumcdn.net/osa/blog/assets
+google_analytics:
+  ua: ''
+facebook:
+  app_id: ''
+  username: pulsewings
+twitter:
+  username: pulsewings
+google_plus:
+  username: pulsewings
+github:
+  username: pulsewings
