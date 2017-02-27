@@ -12,7 +12,7 @@
         <input id="searchQueryEdit" name="q" type="search" placeholder="Search..." value="" />
     </form>
     <ul id="menu" class="nav">
-        <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}/">블로그</a></li>
+        <li class="{% if page.url != '/policies/' and page.url != '/privacy/' %} active {% endif %}"><a href="{{ base_path }}/">블로그</a></li>
         <li class="{% if page.url == '/policies/' %} active {% endif %}"><a href="{{ base_path }}/policies/">게임서비스 이용약관</a></li>
         <li class="{% if page.url == '/privacy/' %} active {% endif %}"><a href="{{ base_path }}/privacy/">개인정보 처리방침</a></li>
     </ul>
