@@ -1,0 +1,12 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"첫 인사","m_info":"안녕하세요, [안입]입니다.\n
+그런 의미에서  돈 500 드립니다.","m_confirmText":"응, 알써","m_actionType":1,"m_actionValue":500},
+{"m_type":0,"m_id":1,"m_title":"튜토리얼 1/5","m_info":"[유닛]은 한 스테이지가 끝나면 사라집니다.\n
+그런 의미에서 돈 500 드립니다.","m_confirmText":"응, 그래","m_actionType":1,"m_actionValue":500},
+{"m_type":0,"m_id":2,"m_title":"튜토리얼 2/5","m_info":"[강화]는 한 전장 내에서 유지됩니다. \n
+그런 의미에서 돈 500 드립니다.","m_confirmText":"엉,","m_actionType":1,"m_actionValue":500},
+{"m_type":0,"m_id":3,"m_title":"튜토리얼 3/5","m_info":"[생산]과 [강화]를 효율적으로 해 내는 게임입니다.\n
+그런 의미에서 돈 500 드립니다.","m_confirmText":"알겠다.","m_actionType":1,"m_actionValue":500},
+{"m_type":0,"m_id":4,"m_title":"튜토리얼 4/5","m_info":"[아슬아슬]은 효율적으로 싸운것을 나타내는 점수입니다.\n
+그런 의미에서 경험치 50 드립니다.","m_confirmText":"ㅇㅇ","m_actionType":2,"m_actionValue":100},
+{"m_type":0,"m_id":5,"m_title":"튜토리얼 5/5","m_info":"[아슬아슬] 점수에 따라 보상이 크게 차이납니다.\n
+그런의미에서  경험치 50 드립니다.","m_confirmText":"ㅇ..","m_actionType":2,"m_actionValue":100}]

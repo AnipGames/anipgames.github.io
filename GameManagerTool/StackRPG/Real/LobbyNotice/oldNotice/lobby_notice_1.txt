@@ -1,0 +1,2 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"반갑습니다.","m_info":"우짜까따쯔빠' 입니다.\n오늘 춥긴한데, 하늘이 뻥뚫려 맑아서 좋네요.
+그래서 경험치 100 드립니다.","m_confirmText":"나도 방가","m_actionType":2,"m_actionValue":100}]

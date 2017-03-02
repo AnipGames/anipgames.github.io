@@ -1,0 +1,1 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"안녕","m_info":"반가워\n\n첫만남 선물이야","m_confirmText":"응, 그래","m_actionType":9,"m_actionValue":1}]

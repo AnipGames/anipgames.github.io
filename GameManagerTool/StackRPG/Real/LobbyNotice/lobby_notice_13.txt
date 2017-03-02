@@ -1,0 +1,1 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"0.0.16 Update","m_info":"[훈련장] 추가되었어요~\n 자세한 사항은 공카에서~\n\n그런의미에서 [허수아비 소환권] 50 드립니다.","m_confirmText":"그랭,","m_actionType":10,"m_actionValue":50}]

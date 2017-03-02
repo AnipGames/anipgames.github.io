@@ -1,0 +1,10 @@
+﻿[
+{"m_type":0,"m_id":0,"m_title":"테스트","m_info":"[돈]드림\n
+그런 의미에서  돈 50000 드립니다.","m_confirmText":"응, 알써","m_actionType":1,"m_actionValue":50000},
+{"m_type":0,"m_id":1,"m_title":"테스트","m_info":"[경험치]드림\n
+그런 의미에서 경험치 50000 드립니다.","m_confirmText":"응, 그래","m_actionType":2,"m_actionValue":50000},
+{"m_type":0,"m_id":2,"m_title":"테스트","m_info":"[무한던전진입권]드림\n
+그런 의미에서 드립니다.","m_confirmText":"응, 그래","m_actionType":6,"m_actionValue":0},
+{"m_type":0,"m_id":3,"m_title":"테스트","m_info":"[장작]드림\n
+그런 의미에서 드립니다.","m_confirmText":"응, 그래","m_actionType":7,"m_actionValue":20}
+]
