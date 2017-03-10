@@ -1,0 +1,1 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"[탄핵기념]","m_info":"모두들 고생하셨습니다.치킨값이라도!!\n\n그런의미에서 [돈] 20,000 드립니다.","m_confirmText":"그랭,","m_actionType":1,"m_actionValue":20,000}]
