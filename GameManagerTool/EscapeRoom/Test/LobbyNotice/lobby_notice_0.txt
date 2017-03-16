@@ -1,1 +1,1 @@
-﻿[{"m_type":0,"m_id":0,"m_title":"안녕","m_info":"첫 알림","m_confirmText":"응, 그래","m_actionType":0,"m_actionValue":0}]
+﻿[{"m_type":0,"m_id":0,"m_title":"안녕","m_info":"반가워~","m_confirmText":"엉, 나도~","m_actionType":0,"m_actionValue":0}]
