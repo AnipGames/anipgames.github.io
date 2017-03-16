@@ -1,0 +1,1 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"좋다좋아","m_info":"목요일이네요!! \n\n그런의미에서 [소환권] 1,000 드립니다.","m_confirmText":"그랭,","m_actionType":10,"m_actionValue":1000}]

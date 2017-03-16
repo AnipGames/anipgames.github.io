@@ -1,4 +1,0 @@
-﻿[
-{"m_type":0,"m_id":0,"m_title":"m_title","m_info":"m_info","m_confirmText":"m_confirmText","m_actionType":8,"m_actionValue":2},
-{"m_type":0,"m_id":1,"m_title":"m_title","m_info":"m_info","m_confirmText":"m_confirmText","m_actionType":9,"m_actionValue":2}
-]
