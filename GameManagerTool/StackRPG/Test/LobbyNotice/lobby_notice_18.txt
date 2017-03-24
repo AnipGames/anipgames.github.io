@@ -1,1 +1,1 @@
-﻿[{"m_type":0,"m_id":0,"m_title":"[예고]Update","m_info":"그런의미에서 [소환권] 1,000 드립니다.","m_confirmText":"이욜~","m_actionType":10,"m_actionValue":1000}]
+﻿[{"m_type":0,"m_id":0,"m_title":"업데이트 예고","m_info":"자세한 사항은 공식카페에서~\n\n그런의미에서 [소환권] 1,000 드립니다.","m_confirmText":"이욜~","m_actionType":10,"m_actionValue":1000}]
