@@ -1,1 +1,0 @@
-﻿[{"m_type":0,"m_id":0,"m_title":"새로운 챔피언","m_info":"무한던전 1489.91점 Tomak333님 \n\n그런의미에서 [소환권] 1,000 드립니다.","m_confirmText":"그랭,","m_actionType":10,"m_actionValue":1000}]
