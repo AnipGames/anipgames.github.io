@@ -1,1 +1,0 @@
-﻿[{"m_type":0,"m_id":0,"m_title":"0.0.19 업데이트","m_info":"전장을 휘젓는 미국대장\n침대는 가구가아닙니다.대박입니다.\n\n그런의미에서 [소환권] 1,000 드립니다.","m_confirmText":"이욜~","m_actionType":10,"m_actionValue":1000}]
