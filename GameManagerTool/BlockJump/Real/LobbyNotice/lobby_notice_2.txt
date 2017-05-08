@@ -1,0 +1,1 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"19대 대선기념","m_info":"같이 뛰어봐요~\n\n그런 의미로 [부활권] 19장 드립니다.","m_confirmText":"응, 그래","m_actionType":9,"m_actionValue":19}]
