@@ -1,0 +1,1 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"대선기념","m_info":"19대 대통령, 대선기념 개표때 치맥해요~\n\n그런의미에서 [돈] 20,000 드립니다.","m_confirmText":"응응","m_actionType":1,"m_actionValue":20000}]
