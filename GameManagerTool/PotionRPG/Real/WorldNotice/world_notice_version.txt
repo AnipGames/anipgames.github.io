@@ -1,0 +1,1 @@
+﻿{"m_version":2,"m_frequencyMin":120,"m_frequencyMax":1200}

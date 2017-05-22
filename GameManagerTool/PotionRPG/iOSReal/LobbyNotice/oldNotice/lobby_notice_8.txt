@@ -1,0 +1,1 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"서얼 특집","m_info":"설날이라 더 한가하다면, 어택땅과 함께\n\n그런의미에서 [경험치] 2000 드립니다.","m_confirmText":"아싸!!","m_actionType":2,"m_actionValue":2000}]
