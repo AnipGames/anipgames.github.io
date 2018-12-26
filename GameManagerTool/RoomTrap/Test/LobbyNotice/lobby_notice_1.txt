@@ -1,0 +1,1 @@
+﻿[{"m_type":0,"m_id":0,"m_title":"방 추가","m_info":"방은 계속 추가됩니다.\n공식카페에 오셔서 개발일지를 확인해보세요~","m_confirmText":"알따","m_actionType":0,"m_actionValue":0}]
